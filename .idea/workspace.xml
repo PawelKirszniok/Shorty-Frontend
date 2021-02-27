@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="f43b34eb-ebc0-4fa6-aea1-c215f3610d8b" name="Default Changelist" comment="" />
+    <list default="true" id="f43b34eb-ebc0-4fa6-aea1-c215f3610d8b" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -10,12 +12,16 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="HTML File" />
         <option value="Python Script" />
+        <option value="HTML File" />
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1oT1Z3oHoAEwyzoYbagGZAtHA3r" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -28,11 +34,12 @@
     <property name="last_opened_file_path" value="$PROJECT_DIR$/app/templates" />
   </component>
   <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\lucen\Documents\GitHub\ShortyFrontend\app\templates" />
+      <recent name="C:\Users\lucen\Documents\GitHub\ShortyFrontend" />
+    </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\lucen\Documents\GitHub\ShortyFrontend\app\templates" />
-    </key>
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="C:\Users\lucen\Documents\GitHub\ShortyFrontend" />
     </key>
   </component>
   <component name="ServiceViewManager">
@@ -61,13 +68,17 @@
     <servers />
   </component>
   <component name="WindowStateProjectService">
-    <state x="722" y="324" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1613297061312">
+    <state x="722" y="324" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1614245583397">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="722" y="324" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1920.1040/1920.0.1920.1080@0.0.1920.1040" timestamp="1613297061312" />
+    <state x="722" y="324" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1920.1040/1920.0.1920.1080@0.0.1920.1040" timestamp="1614245583397" />
     <state x="740" y="276" key="FileChooserDialogImpl" timestamp="1613416401447">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="740" y="276" key="FileChooserDialogImpl/0.0.1920.1040/1920.0.1920.1080@0.0.1920.1040" timestamp="1613416401447" />
+    <state x="623" y="225" key="search.everywhere.popup" timestamp="1614246652378">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="623" y="225" key="search.everywhere.popup/0.0.1920.1040/1920.0.1920.1080@0.0.1920.1040" timestamp="1614246652378" />
   </component>
 </project>
